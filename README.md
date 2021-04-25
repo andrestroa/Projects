@@ -1,8 +1,7 @@
-###My Projects
-
+# My Projects
 This repository contains small projects that I have done in the course of my way learning python programming,
 
-##First projects
+## First projects
 
 **Bucles**: Square numbers until the result is higher than the established limit
 
