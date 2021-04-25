@@ -5,6 +5,7 @@ def tabla(numero):
 
 
 def run():
+
     menu = """
 Esta es una tabla de multiplicar, selecciona una opción
 
@@ -53,5 +54,5 @@ Esta es una tabla de multiplicar, selecciona una opción
     else:
         print:('Porfavor selecciona una opción correcta')
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     run()
